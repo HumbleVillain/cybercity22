@@ -1,0 +1,21 @@
+{
+  "name": "link-demo-slot-olympus-gacor",
+  "main": "./lib/link-demo-slot-olympus-gacor",
+  "version": "0.1.0",
+  "description": "link demo slot olympus gacor terpercaya malam ini guys no hoax",
+  "keywords": [
+    "slot olympus",
+    "gates olympus",
+    "demo slot",
+    "slot online"
+  ],
+  "activationCommands": {
+    "atom-workspace": "link-demo-slot-olympus-gacor:toggle"
+  },
+  "repository": "https://github.com/fortunecook/link-demo-slot-olympus-gacor.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

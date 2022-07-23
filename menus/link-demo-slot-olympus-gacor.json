@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle link-demo-slot-olympus-gacor",
+        "command": "link-demo-slot-olympus-gacor:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "link-demo-slot-olympus-gacor",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "link-demo-slot-olympus-gacor:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
